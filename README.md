@@ -1,2 +1,4 @@
 # hello-world
-Sample hello world repository
+Hello world!
+
+This is my first commit. Please excuse ;)
